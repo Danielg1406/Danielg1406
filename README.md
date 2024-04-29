@@ -3,8 +3,6 @@
 ## About me
 My name is Daniel, and I am 23 years old. I come from Colombia 🇨🇴, but currently, I am living in Berlin where I am studying software development at 42 Berlin. I am also looking for a part-time job (or remote) as a web designer and developer.
 
-🔭 Currently working on: Developing innovative web solutions with a focus on accessibility and user experience.
-
 🌱 Currently learning: Advanced JavaScript frameworks and techniques to push the boundaries of web development.
 
 🤝 Looking to collaborate on: Open-source projects related to blockchain, front-end development, and digital design.
