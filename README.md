@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there, Welcome to my Github profile! 👋
 
-<!--
-**Danielg1406/Danielg1406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+My name is Daniel, and I am 23 years old. I come from Colombia 🇨🇴, but currently, I am living in Berlin where I am studying software development at 42 Berlin. I am also looking for a part-time job (or remote) as a web designer and developer.
 
-Here are some ideas to get you started:
+🔭 Currently working on: Developing innovative web solutions with a focus on accessibility and user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning: Advanced JavaScript frameworks and techniques to push the boundaries of web development.
+
+🤝 Looking to collaborate on: Open-source projects related to blockchain, front-end development, and digital design.
+
+💬 Ask me about: Web design, front-end development, Cryptocurrencies, NFTs, or anything tech-related!
+
+📫 How to reach me: Feel free to connect with me [on Linkedin](https://www.linkedin.com/in/daniel-gomez-arango/) or to [visit my website](https://danielgomezarango.com/).
+
+😄 Pronouns: He/Him
+
+
+This README has been optimized for accessibility based on GitHub's blogpost "[Tips for Making your GitHub Profile Page Accessible](https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-accessible)".
